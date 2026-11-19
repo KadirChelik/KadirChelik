@@ -1,9 +1,10 @@
 # Kadir Çelik
 
 **Frontend Developer · Computer Engineer**  
-Building fast, accessible, and production-grade web applications with **React, TypeScript, JavaScript (ES6+), Node.js, and FastAPI**.
+Building fast, accessible, and production-grade web applications with **React, TypeScript, JavaScript (ES6+), Node.js, and FastAPI**.  
+🟢 *Open to Full-Time Frontend & Full-Stack Roles (Remote / Hybrid / On-site)*
 
-[Portfolio](https://kadircelikportfolyo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kadirchelik/) · [kadircelikcontact@gmail.com](mailto:kadircelikcontact@gmail.com)
+[Portfolio](https://kadircelikportfolyo.vercel.app) · [Resume (PDF)](https://kadircelikportfolyo.vercel.app/CV/Kadir_Celik_CV_en_2026.pdf) · [LinkedIn](https://www.linkedin.com/in/kadirchelik/) · [Book a 15-min Intro Call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2Kyu8uA6U2H9qsF-ZjO66XzTFiOyBHU-yYWNycFr3YowFeXcdlHV_k0ayPijZs-kccXKOsk2gU) · [kadircelikcontact@gmail.com](mailto:kadircelikcontact@gmail.com)
 
 ---
 
@@ -26,14 +27,15 @@ Building fast, accessible, and production-grade web applications with **React, T
 | **[Campaign Agent](https://rd-agent.vercel.app/)** | AI no-code campaign editor featuring a 3-layer deterministic text-to-design pipeline (Gemini AI prompt layer + Express JSON-schema validator) and a 60fps `postMessage` iframe Edit Bridge. | `React` `Node.js` `Express` `Gemini AI` `iframe Bridge` |
 | **[Private PDP Assistant](https://github.com/KadirChelik/gengage-pdp-assistant)** · [Live](https://gengage-pdp-assistant.vercel.app) | Dependency-free, zero-network product-page AI widget powered by Chrome's on-device **Gemini Nano Prompt API** and local **Translator API**, strictly grounded on Schema.org JSON-LD evidence. | `TypeScript` `Vite` `On-Device Web AI` |
 | **[HannAVM E-Commerce](https://github.com/KadirChelik/ecommerce-mern-platform)** · [Live](https://hann-avm.vercel.app/) | End-to-end MERN e-commerce platform with dynamic catalog filtering, checkout flows, role-based admin dashboard, JWT & Passport.js security, and cloud media storage. | `MongoDB` `Express` `React` `Node.js` `AWS S3` |
-| **[KN Fitness PWA](https://github.com/KadirChelik/fitness-analytics-pwa)** · [Live](https://kn-fitness.vercel.app/) | Progressive Web App for workout and hydration tracking with an interactive anatomical **Muscle Heatmap**, personal analytics dashboard, and Wilks/calorie/plate calculators. | `MERN` `PWA` `Recharts` `Framer Motion` |
+| **[KN Fitness PWA](https://github.com/KadirChelik/fitness-analytics-pwa)** · [Live](https://kn-fitness.vercel.app/) | Progressive Web App for workout and hydration tracking with an interactive anatomical **Muscle Heatmap**, personal analytics dashboard, and Wilks/calorie/plate calculators. | `MERN` `PWA` `Recharts` `Framer Motion` `Gemini AI` |
+| **[Yargıtay Precedent Search](https://github.com/KadirChelik/Yargitay-Karar-Arama)** · [Live](https://yargitay-karar-arama.vercel.app) | Semantic and full-text legal decision search engine indexing Supreme Court rulings with vector embeddings and Elasticsearch. | `Python` `Flask` `Elasticsearch` `Sentence-Transformers` `React` |
 
 ---
 
 ### Tech Stack
 
 - **Frontend:** `React.js` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS` · `TanStack Query` · `GSAP` · `HTML5 / CSS3`
-- **Backend & Data:** `Node.js` · `Express.js` · `Python` · `FastAPI` · `MongoDB` · `Redis` · `Celery` · `REST APIs`
+- **Backend & Data:** `Node.js` · `Express.js` · `Python` · `FastAPI` · `Flask` · `MongoDB` · `Redis` · `Elasticsearch` · `Celery`
 - **Testing & Tooling:** `Vite` · `Vitest` · `Git & GitHub` · `GitHub Actions` · `Docker` · `AWS S3` · `Vercel`
 
 ---
